@@ -27,6 +27,7 @@
 		1897FE6B2A4F6792001811BC /* TitleCollectionViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1897FE6A2A4F6792001811BC /* TitleCollectionViewCell.swift */; };
 		1897FE6D2A50C2E1001811BC /* TitleTableViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1897FE6C2A50C2E1001811BC /* TitleTableViewCell.swift */; };
 		1897FE6F2A50C700001811BC /* TitleViewModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1897FE6E2A50C700001811BC /* TitleViewModel.swift */; };
+		18D98A4C2A560B3100980FB3 /* YoutubeSearchResponse.swift in Sources */ = {isa = PBXBuildFile; fileRef = 18D98A4B2A560B3100980FB3 /* YoutubeSearchResponse.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -50,6 +51,7 @@
 		1897FE6A2A4F6792001811BC /* TitleCollectionViewCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TitleCollectionViewCell.swift; sourceTree = "<group>"; };
 		1897FE6C2A50C2E1001811BC /* TitleTableViewCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TitleTableViewCell.swift; sourceTree = "<group>"; };
 		1897FE6E2A50C700001811BC /* TitleViewModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TitleViewModel.swift; sourceTree = "<group>"; };
+		18D98A4B2A560B3100980FB3 /* YoutubeSearchResponse.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = YoutubeSearchResponse.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -151,6 +153,7 @@
 			isa = PBXGroup;
 			children = (
 				1897FE612A4E0048001811BC /* Title.swift */,
+				18D98A4B2A560B3100980FB3 /* YoutubeSearchResponse.swift */,
 			);
 			path = Models;
 			sourceTree = "<group>";
@@ -259,6 +262,7 @@
 				1897FE3A2A473E55001811BC /* AppDelegate.swift in Sources */,
 				188050E42A51E6510085BE14 /* SearchResultsViewController.swift in Sources */,
 				1897FE642A4E04AC001811BC /* Extensions.swift in Sources */,
+				18D98A4C2A560B3100980FB3 /* YoutubeSearchResponse.swift in Sources */,
 				1897FE512A4902AE001811BC /* UpComingViewController.swift in Sources */,
 				1897FE3C2A473E55001811BC /* SceneDelegate.swift in Sources */,
 				1897FE622A4E0049001811BC /* Title.swift in Sources */,
